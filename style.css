@@ -1,3 +1,9 @@
+@import url(sharpie.css);
+
+
 body {
-    background: rgb(89, 255, 0);
+    background: rgb(114, 137, 101);
+    font-family: 'Sharpie-Bold';
+    font-size: 5rem;
 }
+
